@@ -30,3 +30,7 @@ You bear the full responsibility of your actions and acknowledge that this softw
 This software's main purpose is NOT to be used to ruin roblox games, or on anything related.
 
 By using this software, you automatically take the responsability of your actions.
+
+Is Viality Safe?
+Yes, it is safe as it has been tested by virustotal
+---https://cdn.discordapp.com/attachments/1134291469444845598/1138883060893491382/virustotalscan.png
