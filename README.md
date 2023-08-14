@@ -1,5 +1,5 @@
 # Viality
-Viality, a script executor with the ability to run any type of script without bugs of lags and crashes, useful in the web version and microsoft store of roblox, without key. Created by ayshan Discord: ayshan
+Viality, a executor with the ability to run any type of script without bugs of lags and crashes, useful in the web version and microsoft store of roblox, without key. Created by ayshan Discord: ayshan
 This is a Roblox exploiting API based off the WeAreDevs API that supports the UWP version of Roblox! There is no key system and it auto-updates to the latest version!
 
 tldr: wearedevs api but it bypasses byfron
