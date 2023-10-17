@@ -17,9 +17,10 @@ How to setup
 1. Make sure you have the minimum requirements before using the exploit
 2. Run the "Setup.bat" file on your folder
 3. Once it's done there should be a new folder with the name "Viality Executor"
-4. Run the "Viality.exe" file 
-5. Once you have done all the steps from before open a roblox game and inject
-6. That should be it, have fun exploiting!
+4. Run the "Viality.exe" file
+5. Run the "fixer.bat" file
+6. Once you have done all the steps from before open a roblox game and inject
+7. That should be it, have fun exploiting!
 
 
 Disclaimer
